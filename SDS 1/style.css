@@ -1,0 +1,28 @@
+* { box-sizing: border-box; margin: 0; }
+html { scroll-behavior: smooth; }
+body { 
+    font-family: Arial; 
+    background: #fff9fc; 
+    color: #382d38; 
+    text-align: center; }
+header { 
+    padding: 15px; 
+    border-bottom: 1px solid #eadce8; }
+nav a { 
+    margin: 0 8px; 
+    color: #8064a8; 
+    text-decoration: none; }
+.home { padding: 55px 20px; background: #f8eef8; }
+.home h1 { 
+    font-size: 55px; 
+    color: #713b52; }
+section { padding: 15px 20px; }
+h2 { 
+    margin-bottom: 8px; 
+    color: #713b52; }
+#experience p, #projects p { margin: 4px; }
+a { color: #9b6384; }
+footer { 
+    padding: 15px; 
+    background: #713b52; 
+    color: white; }
